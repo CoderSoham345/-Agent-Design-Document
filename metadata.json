@@ -1,0 +1,6 @@
+{
+  "name": "Source-Grounded Research & Writing Assistant",
+  "description": "A professional AI research assistant that performs source-grounded paper analysis, literature reviews, document comparisons, and evidence-backed writing using uploaded documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
